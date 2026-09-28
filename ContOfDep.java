@@ -55,7 +55,7 @@ public class ContOfDep {
 		// Short cut to create Method values with  custom class 
 		//1st way of printing the data
 		// this method does not work all the time 
-		List<String> Lss = Arrays.asList("Indra","Raghu","Gopi");
+		List<String> Lss = Arrays.asList("Isreddy","Raghu","Gopi");
 		List<String> collect4 = Lss 
 			.stream()
 			.map(String::new)
